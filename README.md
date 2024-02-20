@@ -1,5 +1,5 @@
 # Hi there, I'm Tufan Pandey 👋
-| 👨‍💻 | Portfolio : 
+| 👨‍💻 | Portfolio : <b> https://tufanpande.github.io/portfolio</b>
 ## About Me
 
 I am an IT student with a passion for web development. My skills include Node.js, Express, JavaScript, MongoDB, Java, and TypeScript. I love turning ideas into fully functional and visually appealing web applications.
