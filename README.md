@@ -1,19 +1,5 @@
 # Hi there, I'm Tufan Pandey 👋
 | 👨‍💻 | Portfolio : <b> https://tufanpande.github.io/portfolio</b>
-## About Me
-
-I am an IT student with a passion for web development. My skills include Node.js, Express, JavaScript, MongoDB, Java, and TypeScript. I love turning ideas into fully functional and visually appealing web applications.
-
-- 🎓 Studying Information Technology
-- 💻 Web Developer
-- 🌱 Always learning and exploring new technologies
-
-## Tech Stack
-
-- **Languages:** JavaScript, Java, TypeScript,C,C++
-- **Web Technologies:** Node.js, Express
-- **Database:** MongoDB
-- **Other:** HTML, CSS
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
@@ -42,9 +28,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![](https://github-readme-stats.vercel.app/api?username=tufanpande&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/tufanpande)
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TufanPandey-blue)](https://www.linkedin.com/in/tufan-pandey-ba610a2b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-manfrommidwest-red)](https://www.instagram.com/manfrommidwest/)
-
-Feel free to explore my repositories and get in touch. Let's collaborate and build something amazing! 🚀
