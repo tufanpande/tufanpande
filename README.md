@@ -1,5 +1,4 @@
 # Hi there, I'm Tufan👋
-<img align="right" alt="GIF" src="https://www.linkedin.com/in/tufan-pandey-ba610a2b2/overlay/background-image" width="400" height="300" />
 | 👨‍💻 | Portfolio : <b> https://tufanpande.github.io/portfolio</b>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
