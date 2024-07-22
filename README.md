@@ -18,7 +18,4 @@
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉🧋👈
 
 <a href="https://www.buymeacoffee.com/tufaninnovator" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-## GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=tufanpande&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/tufanpande)
 
