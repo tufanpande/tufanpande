@@ -1,5 +1,5 @@
 # Hi there, I'm Tufan👋
-| 👨‍💻 | Portfolio : <b> https://tufanpande.github.io/portfolio</b>
+| 👨‍💻 | Portfolio : <b> https://www.tufanpandey.com.np/</b>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
 
