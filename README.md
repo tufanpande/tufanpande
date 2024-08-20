@@ -18,6 +18,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raw.bin.9634) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manfrommidwest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tufan-pandey-ba610a2b2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tufanpande) 
 
 
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tufanpande&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
