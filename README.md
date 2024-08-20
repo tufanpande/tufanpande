@@ -1,7 +1,6 @@
 # Hi there, I'm Tufan👋
 | 👨‍💻 | Portfolio : <b> https://www.tufanpandey.com.np/</b>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
-  
+
 
 **languages and tools:**  
 
@@ -17,7 +16,8 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raw.bin.9634) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manfrommidwest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tufan-pandey-ba610a2b2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tufanpande) 
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
+  
 
 
 
