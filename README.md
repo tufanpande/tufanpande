@@ -1,7 +1,7 @@
 # Hi there, I'm Tufan👋
 | 👨‍💻 | Portfolio : <b> https://www.tufanpandey.com.np/</b>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
 
 **languages and tools:**  
 
