@@ -19,12 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tufanpande&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉🧋👈
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉🧋👈
 
 <a href="https://www.buymeacoffee.com/tufaninnovator" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
